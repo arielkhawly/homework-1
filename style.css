@@ -55,10 +55,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    alt: "people at a conference table, working together and examing papers";
-    background-image: url("digital-marketing-meeting.jpg") ;
-    background-size: cover;
-    background-position: center;
+    object-fit: cover;
 }
 
 .float-left {
